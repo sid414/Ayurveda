@@ -1,6 +1,5 @@
 https://drive.google.com/drive/folders/1W790gJj_REGk5bgR8evov4HHK-jSTIFx
 
-# SIH 2023 ~Decyphers
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-green)
 
@@ -71,10 +70,6 @@ We welcome contributions from the community to enhance this Ayurveda Health Reco
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:amanmuhal02@gmail.com).
 
-## Acknowledgments
 
-We would like to express our gratitude to the Ayurvedic community for preserving and sharing the knowledge that makes this software possible. We also thank all contributors for their efforts in improving this project. Together, we can promote holistic well-being and empower individuals with Ayurvedic wisdom.
